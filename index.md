@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: CV
 author_profile: true
 classes: wide
 ---
