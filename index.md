@@ -2,6 +2,7 @@
 layout: single
 author_profile: true
 classes: wide
+---
 
 <style>
 /* Make the sidebar profile avatar bigger and keep it circular */
@@ -37,4 +38,4 @@ Beyond my research, I am interested in journalism and science communication as a
 
 
 
-*Feel free to [contact me](mailto:sonali3@stanford.edu)if you're interested in collaborating*
+*Feel free to [contact me](mailto:sonali3@stanford.edu) if you're interested in collaborating*
