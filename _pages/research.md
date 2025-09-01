@@ -1,12 +1,10 @@
 ---
 layout: single
-title: "Research"
+title: "Research Overview"
 permalink: /research/
 author_profile: true
 classes: wide
 ---
-
-# Research Overview
 ## Recent Work
 
 Recent work on the [lack of medical disclaimers in AI models](https://arxiv.org/abs/2507.08030) was featured in:
@@ -17,9 +15,7 @@ Recent work on the [lack of medical disclaimers in AI models](https://arxiv.org/
 
 ## Other Projects
 
----
 ## Publications
-
----
+-[A Systematic Analysis of Declining Medical Safety Messaging in Generative AI Models](https://arxiv.org/abs/2507.08030)
 
 *For information about specific projects or collaborations feel free to [contact me](mailto:sonali3@stanford.edu).*
