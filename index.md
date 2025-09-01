@@ -5,29 +5,29 @@ classes: wide
 ---
 
 <style>
-/* Enlarge the author avatar wrapper in the sidebar/profile block */
+/* Widen wrapper no matter which sidebar container is used */
 .page__sidebar .author__avatar,
 .sidebar .author__avatar,
 .author__avatar {
-  width: 200px !important;      /* set your target width */
+  width: 200px !important;
   max-width: none !important;
-  display: block !important;     /* ensure width applies */
-  margin: 0 auto !important;     /* center it */
+  margin: 0 auto !important;
+  display: block !important;
 }
 
-/* Enlarge the image and keep it circular */
+/* Enlarge the image and keep perfect circle */
 .page__sidebar .author__avatar img,
 .sidebar .author__avatar img,
-.author__avatar img {
-  width: 200px !important;       /* match wrapper */
+.author__avatar img,
+img[itemprop="image"].u-photo {
+  width: 200px !important;
   height: auto !important;
-  max-width: none !important;    /* override theme's 100px cap */
-  border-radius: 50% !important; /* perfect circle */
+  max-width: none !important;
+  border-radius: 50% !important;
   display: block !important;
   margin: 0 auto !important;
 }
 </style>
-
 
 
 
