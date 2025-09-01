@@ -3,7 +3,7 @@ layout: single
 author_profile: true
 classes: wide
 ---
-#Welcome! I'm **Sonali Sharma**,
+#**Welcome! I'm Sonali Sharma**,
 
 I am a researcher at Stanford University focusing in medical applications of AI. My work focuses on ensuring AI systems in healthcare are safe, reliable, and beneficial for patients and providers.
 I am interested in alignment and safety with particular attention to medical imaging and radiology. I am interested in how we can  design, deploy, and evaulate vision-language models (VLMs) in clinical settings.
