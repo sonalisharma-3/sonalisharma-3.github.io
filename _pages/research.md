@@ -27,7 +27,3 @@ I created a dataset called [TIMed-Q: Top Internet Medical Question Dataset] (htt
 
 
 
-
-
-
-*Feel free to [contact me](mailto:sonali3@stanford.edu).*
