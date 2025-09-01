@@ -14,6 +14,11 @@ baseurl                  : ""
 repository               : "sonalisharma-3/sonalisharma-3.github.io"
 teaser                   :
 
+remote_theme  : alshedivat/al-folio
+
+
+
+
 # Site Author
 author:
   name             : "Sonali Sharma"
@@ -138,6 +143,9 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
+  - jekyll-remote-theme
+  - jemoji
+
 
 # HTML Compression
 compress_html:
