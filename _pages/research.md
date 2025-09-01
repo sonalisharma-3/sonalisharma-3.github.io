@@ -15,7 +15,7 @@ My recent paper on the [lack of medical disclaimers in AI models](https://arxiv.
 
 ## Projects
 
-I created a dataset called [TIMed-Q: Top Internet Medical Question Dataset] (https://github.com/sonalisharma-3/TIMed-Q)
+I created a dataset called [TIMed-Q: Top Internet Medical Question Dataset](https://github.com/sonalisharma-3/TIMed-Q)
 - TIMed-Q is a curated dataset of 500 patient-phrased medical questions sourced from real-world internet searches. 
 - It is designed to support research in clinical reasoning, and medical safety evaluation by capturing the authentic language and concerns of patients seeking medical information online.
 
