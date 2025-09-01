@@ -17,7 +17,7 @@ teaser                   :
 # Site Author
 author:
   name             : "Sonali Sharma"
-  avatar           : "/images/profile.png"
+  avatar           : "profile.png"
   bio              : "Fulbright Scholar at Stanford University & Researcher in Medical AI & Radiology 🤖 "
   location         : "Vancouver / Palo Alto"
   employer         : "Stanford University"
