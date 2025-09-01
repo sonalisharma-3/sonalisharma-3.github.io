@@ -1,4 +1,8 @@
-
+---
+layout: single
+author_profile: true
+classes: wide
+---
 # AI Safety Researcher • Stanford University
 
 Welcome! I'm **Sonali Sharma**, an AI Safety Researcher at Stanford University specializing in medical applications and AI governance. My work focuses on ensuring AI systems in healthcare are safe, reliable, and beneficial for patients and providers.
