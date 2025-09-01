@@ -5,14 +5,29 @@ classes: wide
 ---
 
 <style>
-/* Force avatar size and circle */
+/* Enlarge the author avatar wrapper in the sidebar/profile block */
+.page__sidebar .author__avatar,
+.sidebar .author__avatar,
+.author__avatar {
+  width: 200px !important;      /* set your target width */
+  max-width: none !important;
+  display: block !important;     /* ensure width applies */
+  margin: 0 auto !important;     /* center it */
+}
+
+/* Enlarge the image and keep it circular */
+.page__sidebar .author__avatar img,
+.sidebar .author__avatar img,
 .author__avatar img {
-  width: 200px !important;      /* make it bigger */
-  max-width: none !important;   /* override theme's max-width */
+  width: 200px !important;       /* match wrapper */
   height: auto !important;
+  max-width: none !important;    /* override theme's 100px cap */
   border-radius: 50% !important; /* perfect circle */
+  display: block !important;
+  margin: 0 auto !important;
 }
 </style>
+
 
 
 
