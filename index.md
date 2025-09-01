@@ -1,5 +1,5 @@
 ---
-layout: CV
+layout: talk
 author_profile: true
 classes: wide
 ---
