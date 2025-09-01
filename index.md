@@ -3,6 +3,23 @@ layout: single
 author_profile: true
 classes: wide
 
+<style>
+/* Make the sidebar profile avatar bigger and keep it circular */
+.author__avatar img {
+  width: 180px;        /* adjust: 150–240px usually looks good */
+  max-width: none;     /* override theme's max-width */
+  height: auto;
+  border-radius: 50%;
+}
+
+/* Optional: center it a bit nicer in the sidebar */
+.author__avatar {
+  display: flex;
+  justify-content: center;
+}
+</style>
+
+
 ---
 # **Hello and welcome to my website!**
 
