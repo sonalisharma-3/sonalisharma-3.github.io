@@ -1,7 +1,7 @@
-# ==============================================================================
-# SONALI SHARMA - AI SAFETY RESEARCHER
-# Personal Academic Website Configuration
-# ==============================================================================
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your entire site, values
+# which you are expected to set up once and rarely need to edit after that.
 
 # Site Settings
 locale                   : "en-US"
@@ -12,136 +12,50 @@ description              : &description "AI Safety Researcher at Stanford Univer
 url                      : "https://sonalisharma-3.github.io"
 baseurl                  : ""
 repository               : "sonalisharma-3/sonalisharma-3.github.io"
-teaser                   : "/images/bio-photo.jpg"
+teaser                   :
 
 # Site Author
 author:
   name             : "Sonali Sharma"
-  avatar           : "images/profile.png"
+  avatar           : "profile.png"
   bio              : "AI Safety Researcher at Stanford University • Medical AI & Radiology • Featured in MIT Technology Review & Computerworld"
   location         : "Stanford, CA"
   employer         : "Stanford University"
   email            : "sonali3@stanford.edu"
   uri              :
-  
-  # Academic & Professional Links
-  googlescholar    : # Add your Google Scholar ID when available
-  orcid            : "https://orcid.org/0000-0003-3803-0507"
-  researchgate     : # Add if you have one
-  
-  # Code & Development
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         :
+  foursquare       :
   github           : "sonalisharma-3"
-  
-  # Social & Professional Networks
+  google_plus      :
+  keybase          :
+  instagram        :
+  lastfm           :
   linkedin         : "sonali-sharma-946936346"
+  orcid            : "https://orcid.org/0000-0003-3803-0507"
+  pinterest        :
+  soundcloud       :
+  stackoverflow    :
+  steam            :
+  tumblr           :
   twitter          : "sonalisharma336"
-  
-  # Other platforms (uncomment and add if needed)
-  # mastodon         :
-  # bluesky          :
-  # youtube          :
-
-# Navigation
-main:
-  - title: "About"
-    url: /
-  - title: "Research"
-    url: /research/
-
-# Collections
-collections:
-  research:
-    output: true
-    permalink: /:collection/:path/
-
-# Research Areas & Interests
-research_interests:
-  - "AI Safety in Healthcare"
-  - "Medical Imaging & Radiology AI"
-  - "AI Governance & Policy"
-  - "Responsible AI Development"
-  - "Healthcare AI Ethics"
-
-# Featured Media Coverage
-featured_media:
-  - title: "AI companies have stopped warning you that their chatbots aren't doctors"
-    outlet: "MIT Technology Review"
-    date: "2025-07-21"
-    url: "https://www.technologyreview.com/2025/07/21/1120522/ai-companies-have-stopped-warning-you-that-their-chatbots-arent-doctors/"
-    description: "Analysis of how AI companies are removing medical disclaimers"
-  - title: "AI chatbots ditch medical disclaimers, putting users at risk, study warns"
-    outlet: "Computerworld"
-    date: "2025"
-    url: "https://www.computerworld.com/article/4026778/ai-chatbots-ditch-medical-disclaimers-putting-users-at-risk-study-warns.html"
-    description: "Research on the risks of AI medical advice without proper warnings"
-
-# Defaults
-defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: false
-      share: true
-      related: true
-      
-  # _pages
-  - scope:
-      path: "_pages"
-      type: pages
-    values:
-      layout: single
-      author_profile: true
-      
-  # _research
-  - scope:
-      path: ""
-      type: research
-    values:
-      layout: single
-      author_profile: true
-      share: true
-
-# Site Settings
-breadcrumbs              : true
-words_per_minute         : 200
-future                   : true
-read_more                : "enabled"
-talkmap_link             : false
-
-# Comments
-comments:
-  provider               : false
-
-# SEO & Analytics
-google_site_verification :
-bing_site_verification   :
-naver_site_verification  :
-
-analytics:
-  provider               : "google-gtag"
-  google:
-    tracking_id          : # Add your Google Analytics ID
-    anonymize_ip         : true
-
-# Social Sharing
-twitter:
-  username               : "sonalisharma336"
+  vine             :
+  weibo            :
+  xing             :
+  youtube          :
+  wikipedia        :
 
 # Reading Files
 include:
   - .htaccess
   - _pages
   - files
-  
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
-  - vendor
   - .asset-cache
   - .bundle
   - .jekyll-assets-cache
@@ -162,11 +76,9 @@ exclude:
   - Rakefile
   - README
   - tmp
-  
 keep_files:
   - .git
   - .svn
-  
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
@@ -188,6 +100,52 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
 
+# Collections - Simplified
+collections:
+
+# Defaults
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: false
+      share: true
+      related: true
+  # _pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+  # Main pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+
+# Site Settings
+breadcrumbs              : true
+words_per_minute         : 200
+future                   : true
+read_more                : "enabled"
+talkmap_link             : false
+
+# Comments
+comments:
+  provider               : false
+
+# Social Sharing
+twitter:
+  username               : "sonalisharma336"
+
 # Sass/SCSS
 sass:
   sass_dir: _sass
@@ -206,10 +164,6 @@ plugins:
   - jekyll-redirect-from
   - jekyll-include-cache
 
-# Plugin Settings
-paginate: 5
-paginate_path: /page:num/
-
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
@@ -223,7 +177,6 @@ whitelist:
 category_archive:
   type: liquid
   path: /categories/
-  
 tag_archive:
   type: liquid
   path: /tags/
@@ -233,8 +186,3 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-
-# Custom Variables (for use in templates)
-author_bio: "Sonali Sharma is an AI Safety Researcher at Stanford University, specializing in medical applications and radiology AI. Her work on AI governance and healthcare safety has been featured in leading publications including MIT Technology Review and Computerworld."
-
-research_focus: "My research focuses on ensuring AI systems in healthcare are safe, reliable, and beneficial. I work at the intersection of AI safety, medical imaging, and policy, with particular attention to radiology applications and AI governance frameworks."
