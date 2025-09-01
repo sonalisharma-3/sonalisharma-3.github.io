@@ -23,30 +23,10 @@ author:
   employer         : "Stanford University"
   email            : "sonali3@stanford.edu"
   uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
   github           : "sonalisharma-3"
-  google_plus      :
-  keybase          :
-  instagram        :
-  lastfm           :
   linkedin         : "sonali-sharma-946936346"
   orcid            : "https://orcid.org/0000-0003-3803-0507"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    :
-  steam            :
-  tumblr           :
   twitter          : "sonalisharma336"
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
 
 # Reading Files
 include:
@@ -60,15 +40,10 @@ exclude:
   - .bundle
   - .jekyll-assets-cache
   - .sass-cache
-  - assets/js/plugins
-  - assets/js/_main.js
-  - assets/js/vendor
-  - Capfile
   - CHANGELOG
   - config
   - Gemfile
   - Gruntfile.js
-  - gulpfile.js
   - LICENSE
   - log
   - node_modules
@@ -100,9 +75,6 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
 
-# Collections - Simplified
-collections:
-
 # Defaults
 defaults:
   # _posts
@@ -132,19 +104,14 @@ defaults:
       author_profile: true
 
 # Site Settings
-breadcrumbs              : true
+breadcrumbs              : false
 words_per_minute         : 200
 future                   : true
 read_more                : "enabled"
-talkmap_link             : false
 
 # Comments
 comments:
   provider               : false
-
-# Social Sharing
-twitter:
-  username               : "sonalisharma336"
 
 # Sass/SCSS
 sass:
@@ -162,7 +129,6 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
-  - jekyll-include-cache
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -171,15 +137,6 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
-  - jekyll-include-cache
-
-# Archives
-category_archive:
-  type: liquid
-  path: /categories/
-tag_archive:
-  type: liquid
-  path: /tags/
 
 # HTML Compression
 compress_html:
