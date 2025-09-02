@@ -1,5 +1,5 @@
 ---
-layout: talk
+layout: default
 author_profile: true
 classes: wide
 ---
