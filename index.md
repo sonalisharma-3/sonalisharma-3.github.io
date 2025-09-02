@@ -1,7 +1,8 @@
 ---
-layout: single
+layout: talk
 author_profile: true
 classes: wide
+
 ---
 
 <style>
