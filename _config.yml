@@ -143,8 +143,7 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
-  - jekyll-remote-theme
-  - jemoji
+
 
 
 # HTML Compression
