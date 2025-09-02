@@ -1,5 +1,5 @@
 ---
-layout: profiles
+layout: talk
 author_profile: true
 classes: wide
 ---
