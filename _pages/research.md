@@ -7,7 +7,7 @@ classes: wide
 ---
 ## Overview
 
-My recent paper published in npj Digital Medicine on the [lack of medical disclaimers in AI models](https://www.nature.com/articles/s41591-025-04008-8](https://www.nature.com/articles/s41746-025-01943-1) was featured in:
+My recent paper published in npj Digital Medicine on the [lack of medical disclaimers in AI models](https://www.nature.com/articles/s41591-025-04008-8) was featured in:
 
 - **MIT Technology Review**: ["AI companies have stopped warning you that their chatbots aren't doctors"](https://www.technologyreview.com/2025/07/21/1120522/ai-companies-have-stopped-warning-you-that-their-chatbots-arent-doctors/)
 
