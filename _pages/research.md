@@ -7,7 +7,7 @@ classes: wide
 ---
 ## Overview
 
-My recent paper on the [lack of medical disclaimers in AI models](https://arxiv.org/abs/2507.08030) was featured in:
+My recent paper published in npj Digital Medicine on the [lack of medical disclaimers in AI models](https://www.nature.com/articles/s41591-025-04008-8](https://www.nature.com/articles/s41746-025-01943-1) was featured in:
 
 - **MIT Technology Review**: ["AI companies have stopped warning you that their chatbots aren't doctors"](https://www.technologyreview.com/2025/07/21/1120522/ai-companies-have-stopped-warning-you-that-their-chatbots-arent-doctors/)
 
@@ -16,11 +16,12 @@ My recent paper on the [lack of medical disclaimers in AI models](https://arxiv.
 ## Projects
 
 **Global Visual-Spatial Human Chain-of-Thought CXR Dataset**
-At the Stanford Artificial Intelligence in Medicine & Imaging (AIMI) Center, I am leading the development of one of the first global datasets designed to capture how radiologists think, not just what diagnoses they make. While traditional medical imaging datasets focus on labels or written reports, this project records the full cognitive and visual reasoning process behind each interpretation.
 
-I created a custom web-based DICOM viewer platform that collects real-time chain-of-thought explanations that is linked to visual-spatial navigation patterns as radiologists read chest X-rays. This includes the sequence of observations they make, the regions they examine point by point, and the reasoning steps that lead them to a final interpretation. We intend to publicly release this dataset and train models to be grounded in actual visual-spatial-cognitive reasoning. 
+- At the Stanford Artificial Intelligence in Medicine & Imaging (AIMI) Center, I am leading the development of one of the first global datasets designed to capture how radiologists think, not just what diagnoses they make. While traditional medical imaging datasets focus on labels or written reports, this project records the full cognitive and visual reasoning process behind each interpretation.
 
-This one of the largest global datasets, as we currently have over 300 participating radiologists from more than 70 countries.
+- I created a custom web-based DICOM viewer platform that collects real-time chain-of-thought explanations that is linked to visual-spatial navigation patterns as radiologists read chest X-rays. This includes the sequence of observations they make, the regions they examine point by point, and the reasoning steps that lead them to a final interpretation. We intend to publicly release this dataset and train models to be grounded in actual visual-spatial-cognitive reasoning. 
+
+- This one of the largest global datasets, as we currently have over 300 participating radiologists from more than 70 countries.
 
 **Real-world Internet Medical Questions Dataset**
 
