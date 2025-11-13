@@ -39,7 +39,7 @@ I am a Fulbright Scholar and researcher at Stanford University in the Artificial
 
 My main project is creating one of the first global human chain-of-thought and spatial datasets. By recording real-time chain-of-thought reasoning, spatial attention patterns, and interpretive pathways during chest X-ray analysis we can ground reasoning in the actual cognitive and visual processes of human radiologists. 
 
-I am also a student at the University of British Columbia where I studied Global Resource Systems where I conduct clinical radiology research in breast imaging. 
+I am a student at the University of British Columbia studying Global Resource Systems, where I also conduct clinical radiology research in breast imaging. 
 
 Beyond my research, I am interested in journalism and science communication as a way to bridge technical AI research with public understanding. I am the editor and contributer for a commentary series examining the impact of AI on patient care at npj Digital Medicine and freelance journalist for Nature News. Please check out my research and writing!
 
