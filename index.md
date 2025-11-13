@@ -35,13 +35,13 @@ img[itemprop="image"].u-photo {
 ---
 # **Hello and welcome to my website!**
 
-I am a Fulbright Scholar and researcher at Stanford University, where I focus on the transparency and equitable integration of artificial intelligence in healthcare. My research explores how large language models (LLMs) and vision–language models (VLMs) reason in clinical contexts, with particular emphasis on interpretability, safety, and alignment in radiology and medical imaging.
+I am a Fulbright Scholar and researcher at Stanford University in the Artificial Intelligence and Medical Imaging Center, where I focus on the transparency and equitable integration of artificial intelligence (AI) in healthcare. My research explores how large language models (LLMs) and vision–language models (VLMs) reason in clinical contexts, with particular emphasis on interpretability, safety, and alignment in radiology and medical imaging.
 
-I am also a student at the University of British Columbia where I studied Global Resource Systems. 
+My main project is creating one of the first global human chain-of-thought and spatial datasets. By recording real-time chain-of-thought reasoning, spatial attention patterns, and interpretive pathways during chest X-ray analysis we can ground reasoning in the actual cognitive and visual processes of human radiologists. 
 
-I also conduct clinical radiology research in breast imaging and emergency radiology at both Stanford and the University of British Columbia.
+I am also a student at the University of British Columbia where I studied Global Resource Systems where I conduct clinical radiology research in breast imaging. 
 
-Beyond my research, I am interested in journalism and science communication as a way to bridge technical AI research with public understanding. Please check out my research and writing!
+Beyond my research, I am interested in journalism and science communication as a way to bridge technical AI research with public understanding. I am the editor and contributer for a commentary series examining the impact of AI on patient care at npj Digital Medicine and freelance journalist for Nature News. Please check out my research and writing!
 
 
 
