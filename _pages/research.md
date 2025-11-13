@@ -12,7 +12,7 @@ classes: wide
 -[The fragile intelligence of GPT-5 in medicine]( https://www.nature.com/articles/s41591-025-04008-8)
 
 ### **npj Digital Medicine**  
--[A longitudinal analysis of declining medical safety messaging in generative AI models]( [https://www.nature.com/articles/s41591-025-04008-8](https://www.nature.com/articles/s41746-025-01943-1))
+-[A longitudinal analysis of declining medical safety messaging in generative AI models](https://www.nature.com/articles/s41746-025-01943-1)
 
 My recent paper on the [lack of medical disclaimers in AI models](https://www.nature.com/articles/s41591-025-04008-8) was featured in:
 
