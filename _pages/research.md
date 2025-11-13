@@ -6,7 +6,7 @@ author_profile: true
 classes: wide
 ---
 ## Overview
-My research is at the intersection of machine learning, medical imaging, and clinical reasoning. My research aims to train VLMs and LLMs on evidence-based reasoning in clinical contexts. Current models can generate fluent explanations, but they often do so without grounding their conclusions in image features or clinical logic—leading to hallucinations, overconfidence, and inconsistent diagnostic behavior.
+My research is at the intersection of machine learning, medical imaging, and clinical reasoning. Current models can generate fluent explanations, but they often do so without grounding their conclusions in image features or clinical logic, leading to hallucinations, overconfidence, and inconsistent diagnostic behavior.
 
 I am currently developing VLMs that move beyond pattern-matching and can perform structured, clinically valid reasoning over radiographs and multimodal patient data. I am also studying why multimodal models hallucinate in medical settings and working on uncertainty modeling and constraint-aware decoding—to prevent incorrect or fabricated findings.
 
