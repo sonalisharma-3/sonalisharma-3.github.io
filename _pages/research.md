@@ -7,7 +7,14 @@ classes: wide
 ---
 ## Overview
 
-My recent paper published in npj Digital Medicine on the [lack of medical disclaimers in AI models](https://www.nature.com/articles/s41591-025-04008-8) was featured in:
+## Recent Publications
+### **Nature Medicine**  
+-[The fragile intelligence of GPT-5 in medicine]( https://www.nature.com/articles/s41591-025-04008-8)
+
+### **npj Digital Medicine**  
+-[A longitudinal analysis of declining medical safety messaging in generative AI models]( [https://www.nature.com/articles/s41591-025-04008-8](https://www.nature.com/articles/s41746-025-01943-1))
+
+My recent paper [lack of medical disclaimers in AI models](https://www.nature.com/articles/s41591-025-04008-8) was featured in:
 
 - **MIT Technology Review**: ["AI companies have stopped warning you that their chatbots aren't doctors"](https://www.technologyreview.com/2025/07/21/1120522/ai-companies-have-stopped-warning-you-that-their-chatbots-arent-doctors/)
 
@@ -28,13 +35,6 @@ My recent paper published in npj Digital Medicine on the [lack of medical discla
 I created a dataset called [TIMed-Q: Top Internet Medical Question Dataset](https://github.com/sonalisharma-3/TIMed-Q)
 - TIMed-Q is a curated dataset of 500 patient-phrased medical questions sourced from real-world internet searches. 
 - It is designed to support research in clinical reasoning, and medical safety evaluation by capturing the authentic language and concerns of patients seeking medical information online.
-
-## Recent Publications
-### **Nature Medicine**  
--[The fragile intelligence of GPT-5 in medicine]( https://www.nature.com/articles/s41591-025-04008-8)
-
-### **npj Digital Medicine**  
--[A longitudinal analysis of declining medical safety messaging in generative AI models]( [https://www.nature.com/articles/s41591-025-04008-8](https://www.nature.com/articles/s41746-025-01943-1))
 
 
 
