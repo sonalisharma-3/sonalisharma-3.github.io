@@ -19,6 +19,8 @@ I am currently developing VLMs that move beyond pattern-matching and can perform
 
 My recent paper on the [lack of medical disclaimers in AI models](https://www.nature.com/articles/s41591-025-04008-8) was featured in:
 
+- **The New York Times**: : ["Meet Dr. ChatGPT"](https://www.nytimes.com/2025/11/16/briefing/meet-dr-chatgpt.html?unlocked_article_code=1.1k8.Q4Ac.rtVRNbAeAvPD&smid=url-share)
+
 - **MIT Technology Review**: ["AI companies have stopped warning you that their chatbots aren't doctors"](https://www.technologyreview.com/2025/07/21/1120522/ai-companies-have-stopped-warning-you-that-their-chatbots-arent-doctors/)
 
 - **Computerworld**: ["AI chatbots ditch medical disclaimers, putting users at risk, study warns"](https://www.computerworld.com/article/4026778/ai-chatbots-ditch-medical-disclaimers-putting-users-at-risk-study-warns.html)
