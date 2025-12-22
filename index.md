@@ -41,15 +41,9 @@ My main project is creating one of the first global human chain-of-thought and s
 
 **Check out New Publications Here:**
 
-CheXpert-Xplain:
-
-
 
 Beyond my research, I am interested in journalism and science communication as a way to bridge technical AI research with public understanding. I am the editor and contributer for a commentary series examining the impact of AI on patient care at npj Digital Medicine and freelance journalist for Nature News. Please check out my research and writing!
 
-Nature News: 
-
-npj Digital Medicine: 
 
 
 
